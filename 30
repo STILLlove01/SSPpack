@@ -3,3 +3,5 @@ namapack = "cny_spray"
 MinItemPack = 1
 maxbuy = 5
 iditempack = {5706, 5764}
+ResetWorldAfterLeveling = true
+Metot = true

@@ -3,3 +3,6 @@ namapack = "cny_spray"
 MinItemPack = 1
 maxbuy = 5
 iditempack = {5706, 5764}
+SpecialItem = {5746}
+minSpec = 50
+WorldSpec = "ZXSXSZX"

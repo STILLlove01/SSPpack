@@ -1,8 +1,5 @@
-hargapack = 10000
-namapack = "cny_spray"
-MinItemPack = 1
-maxbuy = 5
-iditempack = {5706, 5764}
-SpecialItem = {5748, 5742, 5746}
-minSpec = 100
-WorldSpec = "ZXSXSZX"
+hargapack = 1000
+namapack = "ssp_10_pack"
+MinItemPack = 30
+maxbuy = 10
+iditempack = {5706,5748, 5742, 5746}

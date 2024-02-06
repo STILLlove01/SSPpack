@@ -3,5 +3,3 @@ namapack = "ssp_10_pack"
 MinItemPack = 30
 maxbuy = 10
 iditempack = {5706 ,5748, 5742, 5746}
-ResetWorldAfterLeveling = true
-Metot = true

@@ -3,5 +3,3 @@ namapack = "valentines"
 MinItemPack = 5
 maxbuy = 1
 iditempack = {5706 ,5748, 5742, 5746, 3402, 5664}
-SpecialItem = {9346}
-minSpec = 100

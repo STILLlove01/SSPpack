@@ -1,5 +1,5 @@
 hargapack = 2100
-namapack = "huge_lock"
-MinItemPack = 5
+namapack = "ssp_10_pack"
+MinItemPack = 50
 maxbuy = 10
 iditempack = {5706 ,5748, 5742, 5746, 3402, 5664, 206}

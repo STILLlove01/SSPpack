@@ -1,5 +1,5 @@
 hargapack = 2100
-namapack = "ssp_10_pack"
-MinItemPack = 50
+namapack = "signal_jammer"
+MinItemPack = 1
 maxbuy = 10
-iditempack = {5706 ,5748, 5742, 5746, 3402, 5664, 206}
+iditempack = {5706 ,226, 5742, 5746, 3402, 5664, 206}

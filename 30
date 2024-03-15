@@ -2,4 +2,4 @@ hargapack = 2100
 namapack = "deluxe_grow_spray"
 MinItemPack = 5
 maxbuy = 10
-iditempack = {5706 ,1778, 7164, 206, 226, 528}
+iditempack = {5706 ,1778, 7164, 206, 528}

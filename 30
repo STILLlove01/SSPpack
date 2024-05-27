@@ -1,5 +1,5 @@
 hargapack = 2300
 namapack = "ssp_10_pack"
-MinItemPack = 30
+MinItemPack = 50
 maxbuy = 10
 iditempack = {5706 ,1778, 7164, 206, 528}

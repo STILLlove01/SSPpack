@@ -1,5 +1,5 @@
 hargapack = 7000
-namapack = "Silkworm"
+namapack = "silkworm"
 MinItemPack = 1
 maxbuy = 3
 iditempack = {5706 ,1778, 3316, 206, 528}

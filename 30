@@ -1,5 +1,5 @@
-hargapack = 2300
-namapack = "deluxe_grow_spray"
-MinItemPack = 5
-maxbuy = 5
-iditempack = {1778, 5706, 998, 1004, 994, 996, 990, 986, 988, 992, 1002, 1006}
+hargapack = 50
+namapack = "small_lock"
+MinItemPack = 50
+maxbuy = 50
+iditempack = {1778, 202, 998, 1004, 994, 996, 990, 986, 988, 992, 1002, 1006}
